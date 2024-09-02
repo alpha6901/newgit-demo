@@ -1,4 +1,4 @@
 # newgit-demo
 First git repository
 <br>
-Author- Mainur Hasan
+Author- Mainur (InfinityTube)
